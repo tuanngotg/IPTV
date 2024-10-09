@@ -934,10 +934,6 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://khanggtivi.xyz/vuminhthanh/vmt2024/animal/index.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌐" tvg-id="animalhd" tvg-logo="https://i.ibb.co/YdrDGbZ/ccanimal.png",Animal Planet HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa/ #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-#KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.coin/ 
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=2140692,AVERAGE-BANDWIDTH=1831069,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
